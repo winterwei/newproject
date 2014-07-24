@@ -1,0 +1,25 @@
+{
+  "name": "newproject",
+  "version": "0.0.0",
+  "description": "A new project to try Grunt",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:winterwei/newproject.git"
+  },
+  "author": "Winter Wei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winterwei/newproject/issues"
+  },
+  "homepage": "https://github.com/winterwei/newproject",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jade": "^0.12.0",
+    "grunt-contrib-sass": "^0.7.3",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
